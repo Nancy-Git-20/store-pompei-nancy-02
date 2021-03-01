@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/store-pompei-nancy-02/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/store-pompei-nancy-02/static/js/main.b82ca83b.chunk.js",
-    "main.js.map": "/store-pompei-nancy-02/static/js/main.b82ca83b.chunk.js.map",
-    "runtime-main.js": "/store-pompei-nancy-02/static/js/runtime-main.363a4fed.js",
-    "runtime-main.js.map": "/store-pompei-nancy-02/static/js/runtime-main.363a4fed.js.map",
-    "static/js/2.f908d7ce.chunk.js": "/store-pompei-nancy-02/static/js/2.f908d7ce.chunk.js",
-    "static/js/2.f908d7ce.chunk.js.map": "/store-pompei-nancy-02/static/js/2.f908d7ce.chunk.js.map",
-    "static/js/3.30837665.chunk.js": "/store-pompei-nancy-02/static/js/3.30837665.chunk.js",
-    "static/js/3.30837665.chunk.js.map": "/store-pompei-nancy-02/static/js/3.30837665.chunk.js.map",
+    "main.css": "/store-pompei-nancy-02/static/css/main.fb716b63.chunk.css",
+    "main.js": "/store-pompei-nancy-02/static/js/main.85af0f76.chunk.js",
+    "main.js.map": "/store-pompei-nancy-02/static/js/main.85af0f76.chunk.js.map",
+    "runtime-main.js": "/store-pompei-nancy-02/static/js/runtime-main.8ab9d0ef.js",
+    "runtime-main.js.map": "/store-pompei-nancy-02/static/js/runtime-main.8ab9d0ef.js.map",
+    "static/js/2.af303fa4.chunk.js": "/store-pompei-nancy-02/static/js/2.af303fa4.chunk.js",
+    "static/js/2.af303fa4.chunk.js.map": "/store-pompei-nancy-02/static/js/2.af303fa4.chunk.js.map",
+    "static/js/3.efb753eb.chunk.js": "/store-pompei-nancy-02/static/js/3.efb753eb.chunk.js",
+    "static/js/3.efb753eb.chunk.js.map": "/store-pompei-nancy-02/static/js/3.efb753eb.chunk.js.map",
     "index.html": "/store-pompei-nancy-02/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/store-pompei-nancy-02/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f908d7ce.chunk.js.LICENSE.txt": "/store-pompei-nancy-02/static/js/2.f908d7ce.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/store-pompei-nancy-02/static/media/logo.6ce24c58.svg"
+    "static/css/main.fb716b63.chunk.css.map": "/store-pompei-nancy-02/static/css/main.fb716b63.chunk.css.map",
+    "static/js/2.af303fa4.chunk.js.LICENSE.txt": "/store-pompei-nancy-02/static/js/2.af303fa4.chunk.js.LICENSE.txt",
+    "static/media/Switch-x2.4af212f6.png": "/store-pompei-nancy-02/static/media/Switch-x2.4af212f6.png",
+    "static/media/aerolab-logo.0a8fb170.svg": "/store-pompei-nancy-02/static/media/aerolab-logo.0a8fb170.svg",
+    "static/media/App.css": "/store-pompei-nancy-02/static/media/setting.5f10706c.svg",
+    "static/media/check.63edb656.svg": "/store-pompei-nancy-02/static/media/check.63edb656.svg",
+    "static/media/coin.b8bc711d.svg": "/store-pompei-nancy-02/static/media/coin.b8bc711d.svg",
+    "static/media/fail.11360ced.svg": "/store-pompei-nancy-02/static/media/fail.11360ced.svg",
+    "static/media/worker.b53a8a7e.png": "/store-pompei-nancy-02/static/media/worker.b53a8a7e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.363a4fed.js",
-    "static/js/2.f908d7ce.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b82ca83b.chunk.js"
+    "static/js/runtime-main.8ab9d0ef.js",
+    "static/js/2.af303fa4.chunk.js",
+    "static/css/main.fb716b63.chunk.css",
+    "static/js/main.85af0f76.chunk.js"
   ]
 }
