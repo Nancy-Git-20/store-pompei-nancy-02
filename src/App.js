@@ -1,24 +1,27 @@
-import logo from './logo.svg';
+import React from 'react';
+import { Switch, Route } from "react-router-dom";
+import AppProvider from './context/storeRewardsContext';
+import Home from './Home';
+import History from './History';
+import PageNotFound from './PageNotFound';
 import './App.css';
 
+
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <AppProvider>
+    <div id="AppStore">
+     
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/history" component={History} />
+        <Route component={PageNotFound} />
+      </Switch>
+     
+      
     </div>
+    </AppProvider>
   );
 }
 
