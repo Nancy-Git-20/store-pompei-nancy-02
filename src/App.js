@@ -14,8 +14,8 @@ function App() {
     <div id="AppStore">
      
       <Switch>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/history" component={History} />
+        <Route exact path="/store-pompei-nancy-02/" component={Home} />
+        <Route exact path="store-pompei-nancy-02/history" component={History} />
         <Route component={PageNotFound} />
       </Switch>
      
